@@ -12,8 +12,6 @@
   <i>Happy New Year</i>
   <br>
   <br>
-  <a href="mailto:0dew@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-0dew-684D95?style=for-the-badge&logo=protonmail&logoColor=white" height="25"/>
   </a>
 </p>
 
