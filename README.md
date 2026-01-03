@@ -11,7 +11,6 @@
   <br>
   <i>Happy New Year</i>
   <br>
-  <br>
   </a>
 </p>
 
